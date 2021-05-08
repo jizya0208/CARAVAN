@@ -8,4 +8,5 @@ class CreateBlogs < ActiveRecord::Migration[5.0]
       t.timestamps
     end
   end
-endc
+end
+
